@@ -1,4 +1,8 @@
 # paypalsite
+
+click here to view the website https://karthikskibble.netlify.app/assignment1/
+
+
 ![image](https://user-images.githubusercontent.com/84328259/216609073-28d2b29a-b4a6-48db-95fa-bfda400d6a2d.png)
 ![image](https://user-images.githubusercontent.com/84328259/216609123-f5ad3cb9-11d3-41d3-b204-406845d20b63.png)
 ![image](https://user-images.githubusercontent.com/84328259/216609207-2b792ba2-4293-4f15-8a57-f6f7ccf56c5b.png)
